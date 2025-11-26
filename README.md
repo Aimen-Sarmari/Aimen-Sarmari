@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aimen Sarmari</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="center">A passionate frontend developer from Pakistan 🇵🇰.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimen-sarmari&label=Profile%20views&color=0e75b6&style=flat" alt="aimen-sarmari" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aimensarmari11@gmail.com**
 
-- ⚡ Fun fact **I can fix any type of error in html.**
+- ⚡ Fun fact **I can fix any type of error in web design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
